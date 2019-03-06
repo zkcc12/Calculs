@@ -1,0 +1,19 @@
+{
+  "name": "calculs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tests.js",
+  "scripts": {
+    "test": "node-qunit-phantomjs index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zkcc12/Calculs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zkcc12/Calculs/issues"
+  },
+  "homepage": "https://github.com/zkcc12/Calculs#readme"
+}
