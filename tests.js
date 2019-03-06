@@ -3,6 +3,10 @@ function add(a, b){
   return result;
 }
 
-QUnit.test( "hello test", function( assert ) {
-  assert.ok( 1 == "1", "Passed!" );
+QUnit.test("Calcul ok", function( assert ) {
+    assert.equal(add(1, 1), 2 );
+});
+
+QUnit.test("Int ok", function( assert ) {
+    assert.equal(add(1, 1), 2 );
 });
